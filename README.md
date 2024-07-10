@@ -1,6 +1,6 @@
-# IgctelViz-landing-pag#
+# IgctelViz-landing-page
 
-The platform is built for visualizing cyber security data in real-time. This app provides insights into threats, incidents, and network traffic patterns, enhancing situational awareness and decision-making in cyber security operations.
+The platform is built for visualizing cyber security data in real-time. It provides insights into threats, incidents, and network traffic patterns, enhancing situational awareness and decision-making in cyber security operations.
 
 ## Features
 
