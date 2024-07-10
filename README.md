@@ -92,22 +92,6 @@ I welcome contributions! Please follow these steps to contribute:
 
   + This project is licensed under the [MIT License](https://opensource.org/licenses/MIT) - see the [LICENSE](https://github.com/Heshbon/CyberSecurityApp/blob/main/LICENSE) file for details.
 
-## Chapter Topics
-
-This project covers a wide range of topics related to building a Cyber Security Visualization App, including:
-
-   + Setting up a development environment with React.js and Node.js.
-
-   + Designing and implementing frontend components with React.js for data visualization.
-
-   + Implementing backend APIs with Node.js and Express for data fetching and processing.
-
-   + Integrating real-time data sources for cyber security metrics.
-
-   + Implementing user authentication and authorization.
-
-   + Customizing and extending visualization capabilities using libraries like D3.js or Chart.js.
-
 ## External Examples
 
 For more inspiration on writing a good README, check out these resources:
