@@ -90,7 +90,7 @@ I welcome contributions! Please follow these steps to contribute:
 
 ## License
 
-  + This project is licensed under the [MIT License](https://opensource.org/licenses/MIT) - see the [LICENSE](https://github.com/Heshbon/CyberSecurityApp/blob/main/LICENSE) file for details.
+  + This project is licensed under the [MIT License](https://opensource.org/licenses/MIT) - see the [LICENSE](https://github.com/Heshbon/IgctelViz-landing-page/blob/main/LICENSE) file for details.
 
 ## External Examples
 
